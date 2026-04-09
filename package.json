@@ -1,0 +1,12 @@
+{
+  "name": "scrollverse-portal",
+  "version": "1.0.0",
+  "description": "ScrollVerse Trinity Portal showcase",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
